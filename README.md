@@ -1,3 +1,8 @@
+Assignment 0
+Ryan Chan
+COGS 121 SP14
+
+
 Instagram Example
 ===========
 
